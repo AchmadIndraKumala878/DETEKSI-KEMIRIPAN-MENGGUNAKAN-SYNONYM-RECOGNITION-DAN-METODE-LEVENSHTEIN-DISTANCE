@@ -1,0 +1,647 @@
+kata,dasar,stopword,sinonim
+akomodasi,Ya,Bukan,fasilitas|kemudahan
+alasan,Bukan,Bukan,argumen|argumentasi|asas|bukti|dalih|dalil|dasar|kausa|keterangan|kilah|latar belakang|pasal|pertimbangan|sebab|tanda
+akses,Ya,Bukan,jalan masuk|kanal|saluran|susukan|terusan
+akibat,Ya,Bukan,akhir|balasan|buah|dampak|efek|ekoran|ekses|ganjaran|hasil|imbalan|imbangan|imbas|kelanjutan|kesan|kesudahan|konsekuensi|pengaruh|reaksi|resultan|risiko|sambungan|terusan
+aba,Ya,Bukan,ayah|bapak
+aman,Ya,Bukan,bahagia|damai|hening|jernih (suasana)|lega|reda|rukun|sejahtera|senang|sentosa|tenang|tenteram|selamat|sip |terjaga|terjamin|terlindung|tersembunyi|mantap|meyakinkan|pasti
+arahan,Bukan,Bukan,bimbingan|firman|panduan|pedoman|pengarahan|pengawalan|perintah|petunjuk|pimpinan|sabda|suruhan|tuntunan|aba-aba|amanat|mandat|titah
+acara,Ya,Bukan,agenda|daftar|jadwal|kalender|kegiatan|kesibukan|program|programa|rancangan|rencana|skedul |urusan
+aturan,Bukan,Bukan,adat|hukum|kaidah|kanun|ketentuan|metode|norma|patokan|peraturan|petunjuk|preskripsi|rel |resam|sistem|susunan|tata cara|tata tertib|tatanan
+administrasi,Ya,Bukan,manajemen|tadbir|tata laksana|tata usaha
+ambil,Ya,Bukan,cabut|capai|cedok|curi|jangkau|jiplak|jolok|kait|kebas|kutip|nukil|pegang|petik|pungut|rampas|rebut|rekam|renggut|rompak|sambar|samun|sapu|sedut|sentak|tangkap|tarik|terima|tiru
+amati,Bukan,Bukan,kawal
+alternatif,Ya,Bukan,opsi|pilihan|preferensi|seleksi
+administratif,Ya,Bukan,manajerial
+agama beragama,Bukan,Bukan,memeluk
+agenda,Ya,Bukan,acara|buku catatan|buku harian|daftar|jadwal|program|rancangan|rencana|senarai|skedul
+beberapa,Ya,Ya,jumlah|kaum|kira-kira|kurang lebih|para|sebagian|sebanyak|segenap|sejumlah|sekitar|seluruh|semua|separo|separuh|seputar|setengah
+beda,Ya,Bukan,gap|jarak|kacek|kelainan|pautan|perbedaan|selisih|senjang|tikai|a asing|lain|parak
+begitu,Ya,Ya,sedemikian itu|sejenis itu|semacam itu|seperti itu|serupa itu
+bekas,Ya,Bukan,bakat|cap|garis|gores|impresi|jejak|kesan|rekam|surih|tanda|tikas|tilas|trek |a eks|mantan|n ampas|baki|kelebihan|restan|sempuras|sisa|n apkiran|bangkai|besi
+bekerja,Bukan,Ya,beraksi|berbicara|berbuat|bergerak|bergiat|beroperasi|berpikir|bertindak|berkarya|berdinas|bertugas|berprofesi|berfungsi|berjalan|berproses|hidup|main|menyala
+belajar,Bukan,Bukan,berguru|berlatih|bersekolah|melampas|melancarkan|melatih diri|memahirkan|membaca|membiasakan|mencari ilmu|menelaah|mengaji|menggali
+bencana,Ya,Bukan,bahala|bahaya|bala|dahiat|kecelakaan|kegagalan|kemalangan|kematian|kemudaratan|kenahasan|kerugian|kesedihan|kesengsaraan|kesialan|kesusahan|ketewasan|mala|malapetak
+benda,Ya,Bukan,entitas|jasad|materi|objek|sesuatu|substansi|zat|arta|aset|banda|harta|kekayaan|barang
+bendahara,Ya,Bukan,bendaharawan|kasir|petugas keuangan|mangkubumi|patih|perdana menteri|wazir|gajah|menteri
+bengkak,Ya,Bukan,babak belur|bakup|balut|barah|basal|bedan|beliut|bengep|benggil|benggol|bengkil|bengul|benjol|benjut|bentol|besar|bintil|bintul|bisul|bokong
+berlaku,Bukan,Bukan,beraksi|berbuat|bertindak|berfungsi|bermain|berperan|aktif|berjalan|berlangsung|terjadi|aci|asi|benar|legal|resmi|sah|sahih|valid
+bidang,Ya,Bukan,aspek|bagian|dunia|faktor|jurusan|kelompok|permukaan|segi|sektor|sisi|sudut pandangan|tempat|datar|latar|lebar|papak|papar
+binatang,Ya,Bukan,dabat|fauna|hewan|satwa
+cabang,Ya,Bukan,agen|badal|bagian|belahan|cabang|cagak|canggah|cawangan|dahan|filial|galah|jabang|penggal|perwakilan|ranting|simpangan|tangkai|unit|persimpangan
+cacat,Ya,Bukan,aib|buruk|cela|daif|dosa|hina|keji|laif|lata|lemah|leta|nama buruk|nista|noda|rendah|wiring|abnormal|bengkok|capik|cedera|cempeng|cenangga|cengkeh kuap|cepoh|compeng|compes|cuil|galat|gempil|gerepes|geripis|incut|invalid|jengkang-jengkot|kecok|kipa|kurang|luka|lumpuh|pecok|pengkor|pincang|rempak|rengkat|retak|romping|rusak|serpih|sompek|somplak|sontak|sumbing|terjengket-jengket|teweng|timpang|tuna|keliru|salah
+cahaya,Ya,Bukan,binar|cerah|cuaca|kilap|kilat|kilauan|kirana|kurat|nur|panah|pendar|semarak|seri|sinar|sorot|terang
+cair,Ya,Bukan,cahar|encer|jelang|lebur|likuid|luluh|lumer|reda|surut
+cakup,Ya,Bukan,menangkap|mencangam|mencaplok|mencengam|mencengap|mencomot|mengaut|menyauk|meraup|ki melingkupi|melingkungi|meliputi|mengkover|menyeluruhi|merangkum
+campur,Ya,Bukan,aduk|bancuh|baur|gaul|kacau|karan|larut|sabur|bersama|gabung
+catat,Ya,Bukan,tulis
+cegah,Ya,Bukan,melalau|melarang|melawan|memanggang|memantang|membancang|membantar|membantut|memberangus|memintasi|menahan|menambak|menanggap|menangkal|mengawal|mengekang|mengelakkan|menghalang|menghambat|mengharamkan|menjaga|menjauhkan|menolak|menyekat|merintangi|a melindungi|preventif|protektif
+celah,Ya,Bukan,antara|ganggang|jarak|kisi-kisi|renggangan|sela|seslat|sirat-sirat|belahan|bengkahan|rekahan|retakan
+cemas,Ya,Bukan,asan tak asan|berwalang hati|bingung|empot-empotan|galau|gamang|gelebah|gelisah|harap-harap cemas|jeri|karut|kelesah|khawatir|mamang|nyanyang|renyang|resah|risau|samara|selempang|takut|tegang|was-was|hampir|hampir-hampir|nyaris|sayup
+ciriciri,Bukan,Bukan,identitas|jati diri|pengenal
+citra,Ya,Bukan,angan-angan|bayang-bayang|cermin|fantasi|gambaran|ide|ikon|imaji|impresi|khayalan|konsep|potret|rekaan|representasi|anggapan|kesan|pandangan|penilaian
+coba,Ya,Bukan,jika|kalau|seandainya|seumpama
+cocok,Ya,Bukan,pacak|sunduk|tusukan|akur|berbetulan|searah|sebahu|sebati|sehaluan|seia sekata|sejalan|sepaham|sepakat|sependirian|seragam|setubuh |setuju|betul|pas|sreg|tepat|akseptabel|layak|pantas|patut|tampan|asri|berpatutan|bertemu|harmonis|klop|kompatibel|masuk|mengena|pas|sajak|selaras|serasi|sesuai|setimpal|sinkron|sebabat|sebanding|sebaya|sederajat|seimbang|sejajar|sekelas|selevel|sepadan|setara|setimbang|setingkat
+contoh,Ya,Bukan,kopi|model|replika|tiruan
+daftar,Ya,Bukan,catatan|jadwal|lis|register|sijil|skedul|susunan|tabel|urutan|himpunan|kumpulan|senarai|faharasat|formasi|indeks|katalog|perincian|ruang|uraian
+dahulu,Ya,Ya,awal|berlalu|di depan|di muka|dulu|lalu|lampau|lepas|lewat|mulamula|purba|silam|sudah-sudah|tempo
+dakwa,Ya,Bukan,duga|gugat|sangka|tuding|tuduh|tukas|tuntut
+damai,Ya,Bukan,adem ayem|akur|aman|bahagia|baik|enak|guyub|harmoni|jenjam|kompak|nyaman|rukun|sakinah|salam|sejahtera|sentosa|syahdu|tenang|tenteram
+dampak,Ya,Bukan,akibat|buah|buntut|efek|ekor|ekses |hasil|imbas|impak|impresi|konsekuensi|pengaruh|resultan|benturan|hantaman|tumbukan
+dampar,Ya,Bukan,hanyut|membanting|mengeban|menghempas
+darat,Ya,Bukan,bumi|tanah
+darurat,Ya,Bukan,gawat|genting|bahaya|terdesak|krisis|kritis|mendesak|serius|terjepit|terpaksa|terpojok|urgen|sementara|temporer
+dasar,Ya,Bukan,alas|alur (sungai)|asas|aturan|bakat|basis|jalan|lambar|latar|lunas|motif|pangkal|pegangan|pembawaan|pendapat|perangai|permulaan|pribadi|punca|rancangan|sendi|sudut|tapak|teras|tiang|bawah|dek|geladak|landasan|lantai|lunas (kapal|perahu)|esensi|hakikat|inti|asas|basis|batu tapak(an)|falsafah|fondasi|fundamen|hukum|marga|panduan|patokan|pedoman|peraturan|pijakan|pilar|prinsip|rukun|saka
+datar,Ya,Bukan,latar|melantai|papak|papar|pepat|rata|ki banal|boyak|gersang|hambar|kering|melelapkan|membosankan|menjemukan|prosais
+daya,Ya,Bukan,kapabilitas|kapasitas|kebisaan|kebolehan|kecakapan|kemampuan|kepandaian|kesanggupan|kompetensi|kualifikasi|energi|gaya|harkat|kekuatan|ketajaman|tenaga|akal|kiat|kunci|muslihat|rahasia|resep|siasat|taktik|trik
+dedikasi,Ya,Bukan,kontribusi|pengabdian|pengorbanan|persembahan|sumbangan|sumbangsih
+definisi,Ya,Bukan,arti|batasan|deskripsi|interpretasi|ketentuan|keterangan|makna|maksud|pengertian|penjelasan|pernyataan|pertegasan|rumusan|takrif|uraian
+dermaga,Ya,Bukan,bandar|cerocok|kade|pangkalan|pelabuhan|sandaran|tambatan
+destinasi,Ya,Bukan,tujuan
+detail,Ya,Bukan,perincian|pernik|serpih|spesifikasi|uraian
+domestik,Ya,Bukan,dalam negeri|lokal|nasional|nusantara|pribumi|regional|setempat|tempatan|internal |kerumahtanggaan|jinak|piaraan
+edukasi,Ya,Bukan,bimbingan|pendidikan|kursus|latihan
+efek,Ya,Bukan,akibat|buah|buntut|dampak|daya|ekor|hasil|imbas|impak|impresi|kekuasaan|kekuatan|kesan|kesudahan|konsekuensi|pengaruh|produk|upaya|surat berharga
+efektif,Ya,Bukan,ampuh|berhasil|berkhasiat|cespleng |efisien|makbul|mandi|mangkus|manjur|mempan|mengena|mujarab|mustajab|positif|sakti|sehat|tokcer
+efisien,Ya,Bukan,berdaya guna|efektif|ekonomis|praktis|realistis|sangkil|sesuai|tepat|tepat guna
+ekonomis,Ya,Bukan,cermat|hati-hati|hemat|irit
+eksplorasi,Ya,Bukan,investigasi|pencarian|pendalaman|penelitian|penggalian|penjajakan|pengkajian|penjelajahan|penyelidikan|riset|studi
+ekstra,Ya,Bukan,basi|bonus|lemburan|sisipan|suplemen|tambahan
+ekstrem,Ya,Bukan,berlebihan|drastis|eksesif|lewat batas|melampaui|musykil|supernatural|fanatik|keterlaluan|radikal|reaksioner|revolusioner|ultra
+elegan,Ya,Bukan,aksi|anggun|elok|flamboyan|gagah|jantan|jatmika|keren|ksatria|necis|parlente|ranggi|adib|beradab|berbudi|beretiket|bermoral|bersusila|sopan|tahu
+empati,Ya,Bukan,afeksi|afinitas|belas kasihan|iba|patos|simpati|syafakat|tenggang rasa|timbang rasa
+energi,Ya,Bukan,daya|dorongan|forsa|gaya|kakas|kekuatan|stamina|tenaga|upaya|gairah|intensitas|semangat|spirit vitalitas
+estimasi,Ya,Bukan,agakan|anggapan|bayangan|penghitungan|perhitungan
+evakuasi,Ya,Bukan,pemindahan|penghijrahan|pengungsian|penyelamatan|penyingkiran
+fakta,Ya,Bukan,alasan|bahan|bainah|bukti|burhan|cena|dalil|data|fenomena|gejala|hakikat|hujah|informasi|kebenaran|kenyataan|kesahihan|keterangan|masukan|petunjuk|realitas|saksi|tanda
+faktor,Ya,Bukan,anasir|aspek|bagian|ciri|elemen|hal|keadaan|komponen|konstituen|segi|sisi|situasi|suasana|sudut|sudut pandang|unsur|alasan|penyebab|sebab|variabel
+fase,Ya,Bukan,ambang|aras|babak|bagian|batas|etape|golongan|kelas|langkah|peringkat|periode|ronde|seksi|sesi|stadium|susunan|tahap|taraf|tingkat|unit
+fasilitas,Ya,Bukan,akomodasi|alat|kelawasan|keleluasaan|kelonggaran|keluasan|kemudahan|keringanan|kesempatan|prasarana|sarana|wahana|layanan|pelayanan|servis
+fatal,Ya,Bukan,berat|buruk|celaka|mematikan|parah|membahayakan|menyulitkan|teruk
+favorit,Ya,Bukan,idola|kesayangan|pujaan|hobi|kegemaran|kesenangan|kesukaan|pelipuran
+fenomena,Ya,Bukan,anggai|faal|fakta|gejala|gelagat|isyarat|keajaiban|kejadian|pertanda|petunjuk|sinyal|tanda|tengara|wujud
+festival,Ya,Bukan,hajatan|kegiatan|keramaian|pameran|parade|pekan raya|perayaan|pergelaran|pertunjukan|pesta|ajang|kejuaraan|kompetisi|konkurs|kontes|lomba|perlombaan|pertandingan|pertarungan|sayembara|turnamen
+figur,Ya,Bukan,bentuk|persona|profil|rupa|sosok|tokoh|wajah|wujud|bangun|bentuk|rupa|wujud|corak|desain|motif|patron
+fokus,Ya,Bukan,inti|pokok|pusat|titip api
+fungsi,Ya,Bukan,guna|jabatan|kegiatan|kewajiban|manfaat|peran|peranan|tanggung jawab|tugas
+gabung,Ya,Bukan,balut|bebat|berkas|ikat|jaras|kebat|taris
+gagal,Ya,Bukan,batal|bubar|kalah|kandas|kubra|malang|mudarat|patah pucuk|puatang|rusak|suak|urung
+gagas,Ya,Bukan,membuka|memelopori|memprakarsai|memulai|menaja|meneroka|mengajun|menganjuri|mengawali|merencanakan|merintis
+gambar,Ya,Bukan,coretan|goresan|ilustrasi|lakaran|lukisan|pigura|rajah|sketsa|tulisan
+gampang,Ya,Bukan,gamblang|gangsar|lancar|licin|mudah|mulus|murah|sederhana|suang|enteng|ganyir|remeh|ringan|sepele|sipil 
+anda,Ya,Bukan,dobel|kembar|rangkap|berpasangan
+gawat,Ya,Bukan,berbahaya|cemas|darurat|genting|krisis|kritis|mendesak|panas|rawan|runcing|serius|terancam|urgen|akut|berat|biut|keras|kronis|parah|payah|serius|rumit|ruwet|sulit|susah
+gaya,Ya,Bukan,daya|energi|kekuatan|tenaga|aksi|gerak-gerik|lagak-lagu|pembawaan|perangai|pose|sikap|tingkah|ulah|ala|bentuk|cara|corak|kecenderungan|lagam|lagu|macam|model|ragam|rupa|siasat|teknik|tren
+gemerlap,Ya,Bukan,bercelak|berkaca-kaca|berkilap|berkilat|berkilauan|bersemarak|gilang-gemilang|seminar
+gempita,Ya,Bukan,gaduh|gegap-gempita|ramai|riuh-rendah
+generasi,Ya,Bukan,angkatan|keturunan|turunan
+gerak,Ya,Bukan,debar|denyut|detak|garit|kejut|renyut|aksi|dinamika|dorongan
+gerebek,Bukan,Bukan,menggerompok|menggeropyok|menangkap|menggeledah|menyergap|menyerkap|merazia|merejeng
+gerebek,Bukan,Bukan,menggerompok|menggeropyok|menangkap|menggeledah|menyergap|menyerkap|merazia|merejeng
+gratis,Ya,Bukan,bebas|cuma-cuma|percuma
+grup,Ya,Bukan,blok|klik|kubu|agregasi|perkumpulan|persekutuan|perserikatan
+habis,Ya,Bukan,amblas|berakhir|beres|berhenti|bersih|damas|finis|gentas|gugur|hilang|jatuh|khatam|kosong|lenyap|lesap|lewat|lindang|lingkap|ludes|luruh|melindap|punah|putus|rapi|rugi|selesai|siap|suntuk|tamam|tamat|tandas|tandus|tewas|timpas|tohor|tumpas|tuntas|usai
+hadap,Ya,Bukan,arah|hala|jurusan|paran|tala|tepas|tuju|depan|hadapan|haluan|muka
+kenangan|komisi|parsel|pemberian|penghargaan|persembahan|persen|sagu hati|suvenir|tanda mata|tip|uang lelah|uang rokok|upah
+hadir,Ya,Bukan,ada|datang|masuk|muncul|sedia|siap|tampil|tampak|tecermin|tergambar|terlihat|terlukis|terpantul
+halaman,Ya,Bukan,jerambah|laman|pekarangan|pelataran|peron|taman|kaca|lembaran|muka (surat)|pagina
+halangan,Bukan,Bukan,aral|batu penarung|batu sandungan|galangan|gandal|gangguan|ganjalan|hambatan|inhibisi|kendala|larangan|lintangan|pembatasan|prohibisi|restriksi|rintangan|sangkutan|sekat|tahanan
+halus,Ya,Bukan,kecil|lembut|lumat|renik|subtil
+hambat,Ya,Bukan,memasung|memayahkan|membancang|membantut|membendalkan|membendung|memingit|menahan|menambak|menanggang|mengambang|mengekang|mengerem|menggalangi|menghalang|menyakatkan|menyekat|menyendat|menyeratkan|meredam|merentangi|merintangi
+hampar,Ya,Bukan,membentang|terbentang|terentang|tergelar|tergelar|terkembang|terpampang|terpapar|terpentang
+hangat,Ya,Bukan,panas kuku|pesam|suam|suamsuam kuku|akrab|bersahabat|dekat|erat|familiar |intim|karib|kekeluargaan|lembut|manis|mendalam|menyenangkan|mesra|ramah|simpatik|sosial|aktual|baru|mutakhir|segar|terakhir|berapi-api|berkobar-kobar|genting|hebat|meruncing|sengit|tegang
+hangus,Ya,Bukan,cengkut|gosong|terbakar|tutung
+harga,Ya,Bukan,kadar|kualitas|mutu|nilai|payu|taksiran|derajat|harkat|kehormatan|martabat|pangkat|arti|faedah|guna|makna|manfaat|maslahat|kepentingan|keperluan
+hebat,Ya,Bukan,azamat|bergaya|berkuasa|cemerlang|dahsyat|genting|hangat|hormat|istimewa|jempolan|kuat|luar biasa|memesona|memikat|memuaskan|menarik|mencengangkan|mencolok|mengagumkan|mengerikan|panas|perkasa|santer|segan|sengit|seru|spektakuler|super|superior|teruk|yahud 
+heboh,Ya,Bukan,bising|bundak|cabuh|ceruh|gaduh|geger|gempar|huru-hara|kacau|kecoh|ramai|recok|ribut|ripuh|riuh|rusuh|skandal
+hibur,Ya,Bukan,melengah|melipur|menarik|mendinginkan|menenangkan|menggirangkan|menumbuk|menyejukkan|menyenangkan|menyukakan|meredakan|merintangkan
+hitung,Ya,Bukan,bagi|bilang|hisab|jumlah|kira|kurang|perbanyak
+hubung,Ya,Bukan,sambung
+ibu,Ya,Ya,biyung|bok|bunda|emak|embuk|emcok|encim|ibunda|incim|induk|indung|injin|mak|mama|mami |mandeh|uai|umi|bini |induk beras|istri|nyonya|orang belakang |orang rumah|pedusi|perempuan|pusat|induk|pokok|utama|sentral
+idam,Ya,Bukan,memalarkan|membayangkan|memimpikan|mencita-citakan|mendambakan|mengangankan|mengharapkan|mengincar|menginginkan|mengigaukan|mengkhayalkan|merindukan
+ide,Ya,Bukan,citra|konsep|impresi|pendapat|pengertian|persepsi|pikiran|bisikan|buah pikiran|cita-cita|gagasan|ilham|inisiatif|inspirasi|prakarsa|tanggapan
+ideal,Ya,Bukan,acuan|arketipe|cermin|contoh|eksemplar|model|paradigma|pola|teladan|a abstrak|hipotetis|konseptual|teoretis|transendental|a kamil|komplet|lengkap|sempurna
+identifikasi,Ya,Bukan,pengenalan|rekognisi
+identitas,Ya,Bukan,ciri-ciri|individualitas|jati diri|label|nama|personalitas|sebutan
+imajinasi,Ya,Bukan,angan-angan|fantasi|khayalan|visi
+imbang,Ya,Bukan,timbal|timbang|bimbang|ragu-ragu
+imbas,Ya,Bukan,akibat|dampak|efek|ekses |impak|konsekuensi|pengaruh|aliran|gerakan udara|angin
+imbau,Ya,Bukan,memanggil|menyeru|memelawa|menjemput|mengajak
+imbuh,Ya,Bukan,ekstra|ganduh|tambahan|tokok|welasan
+impas,Ya,Bukan,bera|beres|draw|habis|langsai|lunas|terbayar|pulang modal|pulang
+implementasi,Ya,Bukan,aplikasi|pelaksanaan|penerapan|pengamalan|pengejawantahan|penjabaran|praktik|rekayasa
+indikasi,Ya,Bukan,alamat|bakat|faal|gejala|gelagat|isyarat|padahan|pelebaya|petunjuk|riak |simpom|sinyal|tanda|tengara
+info,Ya,Bukan,berita
+infrastruktur,Ya,Bukan,prasarana
+informasi,Ya,Bukan,penerangan|penjelasan|bahan|berita|data|embaran|fakta|kabar|keterangan|laporan|liputan|warta
+inovatif,Ya,Bukan,imajinatif|inventif|kreatif
+insentif,Ya,Bukan,dorongan|impetus|impuls|katalis|motivasi|perangsang|stimulan|stimulus
+instruksi,Ya,Bukan,aba-aba|ajaran|amanat|amaran|arahan|komando|nasihat|perintah|pesan|titah|tugas|pedoman|pelatihan|pendidikan|petunjuk
+intensif,Ya,Bukan,gentur|intens|mendalam|serius|sungguh-sungguh
+internal,Ya,Bukan,dalam|intern|privat|n domestik|kerumahtanggaan
+internasional,Ya,Bukan,antarbangsa|global|mendunia|mondial|universal
+investor,Ya,Bukan,penanam modal|penyandang dana
+istilah,Ya,Bukan,kata|nama|sebutan|terma
+istimewa,Ya,Bukan,distingtif|eksklusif|eksotis|individual|khas|khusus|spesial|spesifik|tersendiri|unik|hebat|jempolan|luar biasa|penting|prima|sempurna|signifikan|spesial|super
+jadwal,Ya,Bukan,agenda|skedul |susunan|urutan|acara|rencana|program|rancangan
+jaga,Ya,Bukan,bangun|bergadang|celik|gugah|melek |sadar|terbuka|ronda|piket|patroli|kawal|berkawal|sambang|menunggui
+jajar,Ya,Bukan,banjar|baris|deret|jejer|lajur|larik|leret|nirai|ririt|saf|alur|longkang|parit|tali air|terusan air
+jalan,Ya,Bukan,adimarga|bulevar|denai|gang|jalan|berkepanjangan|berlarat-larat|berlarut-larut|bertele-tele|melantur|melayang |melebar
+jalur,Ya,Bukan,kolom|pias|alur|balur akar|ban|baris|belang|carik|coreng|deret|deretan|galur|garis(-garis)|kirai|lajur|leret|lerang|lintasan|loreng|pelang|rel|rute|sabuk|salur|senggatan|trayek|urat|barisan|jongkong|kempang|kolek|perahu|sagur
+jangkau,Ya,Bukan,mencapai|mencengkam|mencengkau|mencengkeram|mengambil|menggapai|menguasai|menjemput|menyebar|meraih|merengkuh
+jangkit,Ya,Bukan,meluaskan|membiakkan|menjalarkan|menularkan|menyebarkan|merebakkan
+jaring,Ya,Bukan,bantau|candik|gombang|jala|kisa|net|pompang|pukat|salambo|serot|seser|sirat|sondong|tangkul
+jasa,Ya,Bukan,bantuan|kebaikan|pelayanan|pertolongan|servis|uluran tangan
+jawab,Ya,Ya,balas|balasan|elakan|jawaban|perlawanan|reaksi|respons|sahutan|sambutan|tanggapan|tangkisan
+jebak,Ya,Bukan,melibat|memancing|membebat|membelit|memerangkap|memikat|menangkap|mencelakakan|menipu|menjerat
+jejak,Ya,Bukan,alur|anutan|bekas|cap|contoh
+jernih,Ya,Bukan,bening|bersih|hening|jelah|transparan|bercahaya|berseri|bersinar|cerah|ceria|lurus|runtut
+jorok,Ya,Bukan,mencodak|mencuat|menganjur|menjulur|menonjol|terserondok
+kabar,Ya,Bukan,berita|informasi|maklumat|pemberitahuan|pengumuman|warta
+kabul,Ya,Bukan,keikhlasan|kelulusan|kerelaan|penerimaan|perjanjian|perkenan|persetujuan
+kabur,Ya,Bukan,aram-temaram|baur|buram|kabut|kelam|keruh|kusam|lamat-lamat|melindap|membalam|muram|pirau|pudar|redup|remang-remang|samar-samar|saru|sayup-sayup|sebam|suram|angkat kaki|enyah|hengkang|hilang|lenyap|maherat|melarikan diri|mengacir|minggat|pergi
+kabut,Ya,Bukan,awan|halimun|mega|a baur|buram|ilam-ilam|kelam|kusam|lamatlamat|pirau|redup|remang|samar-samar|sebam|suram
+kacau,Ya,Bukan,bancuh|baur|berantakan|berkaru|bingung|buyar|gaul|haru biru|kacau balau|kacuk|kalut|kelamkabut|keruh|lopak-lapik|rancu|ricuh|rusak|teraduk-aduk|tercampur
+kadang,Ya,Bukan,adakalanya|kadang kala|sekali-sekali|sekali waktu|sering-sering|sesekali|sporadis|terkadang
+kadar,Ya,Bukan,kekuatan|kemampuan|kuasa|persentase|takaran|tingkatan|ukuran|karat|harga|harkat|kualitas|martabat|mutu|nilai|taraf
+kaget,Ya,Bukan,kagum|takjub|tercengang|tergemap|terheran-heran|terkejut|terkesiap|termenung|terpengarah|terperanjat|terpesona|tersentak|tertegun 
+ketat,Ya,Bukan,kencang|ketang|sempit|sendat|sepan|sesak|singset|terik|cermat|saksama|selektif|teliti|erat|lekat
+kagum,Ya,Bukan,heran|takjub|tercengang|terpesona|silau |terpukau
+kanal,Ya,Bukan,saluran|terusan|kali|lungkang|parit|serokan|susukan|tali air
+kandidat,Ya,Bukan,bakal|calon|kader|kadet|kontestan|pengikut|peserta
+kantong,Ya,Bukan,kampil|kandi|kandung|kantung|karung|kekandi|kocek|kopek|poket |pundi-pundi|pura|sak|saku|tas|uncang
+kapasitas,Ya,Bukan,daya muat|daya serap|daya
+karakter,Bukan,Bukan,aksara|huruf|leter|lambang|markah|simbol|tanda|bawaan|hati|jiwa|kepribadian|budi 
+karakteristik,Bukan,Bukan,idiosinkrasi|individualitas|karakter|keistimewaan|kekhususan|keunikan|partikularitas|a distingtif|individual|istimewa|khas|khusus|spesial|spesifik|tersendiri|unik
+karcis,Ya,Bukan,kartu|tiket
+kisar,Ya,Bukan,kisaran|pusaran|putaran|rotasi
+kolaborasi,Ya,Bukan,kerja sama|kooperasi|persekutuan
+koleksi,Ya,Bukan,antologi|kompilasi|korpus|perbendaharaan|pusparagam|seleksi
+kompak,Ya,Bukan,akur|damai|rukun|seia-sekata
+kompeten,Ya,Bukan,ahli|berpengalaman|cakap|eksper|kuat|mahir|paham|pandai|piawai|pintar|profesional|terampil|terlatih
+kompetensi,Ya,Bukan,kebiasaan|kebolehan|kecakapan|daya|kapabilitas
+komplain,Ya,Bukan,aduan
+komplit,Bukan,Bukan,komplet
+komunikasi,Ya,Bukan,hubungan|koneksi|kontak|korespondensi
+kondisi,Ya,Bukan,hal|ihwal|keadaan|kedudukan|perihal|status|iklim|kerangka|konteks|situasi|suasana|kualifikasi|limitasi|pembatasan|(pra)-syarat
+kondisional,Bukan,Bukan,provisional|tentatif
+konfirmasi,Ya,Bukan,afirmasi|penegasan|peneguhan|pengukuhan|penyungguhan|testimoni|justifikasi|pembenaran|pembuktian|pengesahan|validasi|verifikasi
+konsisten,Ya,Bukan,konstan|malar|persisten|stabil|taat asas|tetap|harmonis|koheren|selaras|sesuai
+koordinasi,Ya,Bukan,harmonisasi|pengaturan|pengorganisasian|penyelarasan|penyerasian|sinkronisasi
+kosong,Ya,Bukan,angin |blangko|hampa|kelompang|nihil|polos|terluang|vakum|ki
+kotor,Ya,Bukan,bergelimang|celemotan|celomok|cemong|comot|coreng-moreng|dekil|jorok|kumuh|ternoda|asusila|buruk|cabul|cacat|carut|cemar|hina|jelek|lata|nista|rendah|tercela|vulgar|bruto
+kreatif,Ya,Bukan,artistik|imajinatif|inovatif|inventif|kaya |produktif
+kritik,Ya,Bukan,apresiasi|catatan|celaan|iktirad|kecaman|komentar|penilaian|pertimbangan|sanggahan|siasat|suara miring|teguran
+kumpul,Ya,Bukan,gabung|himpun|rangkai
+laba,Ya,Bukan,keuntungan|kelebihan|margin|profit|surplus|arti|faedah|guna|manfaat
+label,Ya,Bukan,cap|etiket|merek|stiker|identitas|julukan|nama|predikat|sebutan|emblem|lekatan
+lacak,Ya,Bukan,mencari|menuruti|menyelidiki|mengusut|memeriksa|menapak|merunut|menelusur|membaui |mengendus|membayangi|membuntuti|mengejar|mengikuti|menjejaki |menyelusuri|menyusuri|mempelajari|menggali |menyelidiki
+ladang,Ya,Bukan,cerang|huma|kangka|kebun|parak|pendapatan|perkebunan|sesapan|tebasan|tegal|tipar
+laga,Ya,Bukan,adu|antuk|langgar|peperangan|pergelutan|perkelahian|pertarungan|pertempuran|rempuh|sabung|serang|tanding|tempuh
+lahan,Ya,Bukan,kapling|persil|tanah
+laju,Ya,Bukan,cepat|deras|ekspres|geladir|kencang|lampias|lancar|pesat|n kecepatan|lejang|percepatan|rejang
+lajur,Ya,Bukan,banjar|deret|jajar|jejer|larik|leret|ririt|saf|jalur|kolom|pias|ruangan
+laki,Ya,Bukan,adam|laki-laki|lanang|lelaki|maskulin|pria|bujang|cowok |jaka|jejaka|pemuda|perjaka|jantan|junjungan|suami
+laku,Ya,Bukan,krida|perbuatan|tindakan|gerak-gerik|perangai|peri|perilaku|ragam|sepak|kayun|larap|laris|v berjual|terjual|a absah|berlaku
+lakukan,Bukan,Bukan,buat
+lalai,Ya,Bukan,abai|alpa|cabar|cuai|cupai|khali|lena|lengah|lupa|meleng|seleder|taksir|teledor|terpica
+lalu lintas,Ya,Bukan,berseliweran|bolak-balik|hilir
+lamalama,Bukan,Bukan,berangsur-angsur|berantara|berdikit-dikit|bertahap|lama-kelamaan|lambat-laun|perlahan-lahan|sedikit demi
+lambai,Ya,Bukan,melembai|mengawai|menggubit|menyembai|bergelebar|berkibar
+lamban,Ya,Bukan,dambar|kelesa|lambat|langsam|laun|lelet|lemah|lembam|lengah|pelan|perlahan|layu|lengai|lesu|loyo|gontai
+lambang,Ya,Bukan,atribut|cap|emblem|ikon|karakter|kode|markah|petunjuk|simbol|sinyal|tanda
+lambat,Ya,Bukan,ayal|gial|lamban|lelet|payah|pelan|sendat|alon-alon|lama|laun|idiot|imbesil|lemah|terbelakang|tunagrahita
+lampu,Ya,Bukan,alat penerangan
+lancar,Ya,Bukan,geladir|laju|lampias|bijak|calak|fasih|galir|lincir|pandai bicara|pantas mulut |petah lidah|halus|lemas
+lancong,Ya,Bukan,berdarmawisata|berekreasi|berkelah|berpelesir|berpesiar|bertamasya|berwisata|dolan|jalan-jalan|piknik|melonco-lonco
+landai,Ya,Bukan,miring|pantai|sondai
+landas,Ya,Bukan,alas|tumpuan
+langgar,Ya,Bukan,bentur|tabrak|bandarsah|menasah|musala|surau|zawiat
+langgan,Ya,Bukan,berabonemen|melanggani
+langit,Ya,Bukan,angkasa|antariksa|awang-awang|bumantara|cakrawala|dirgantara|tawang|udara
+langka,Ya,Bukan,ganjil|garib|jarang|larang|mahal|nadir|sedikit|sulit
+langkah,Ya,Bukan,tindak|aksi|gajak|kelakuan|kiprah|perbuatan|sepak terjang|tindakan|keputusan|sikap|bagian|tahap|jalan|metode|modus operandi|prosedur|siasat|strategi
+langsung,Ya,Bukan,melantas|terus|a direk |kontan |refleks|serentak|serta-merta|spon-tan|a jitu|kategoris|telak|tepat
+lanjut,Ya,Ya,berumur|tua|a alot|berkepanjangan|liat|sendat|sulit|a dalam|tinggi|v
+lantai,Ya,Bukan,dek|geladak|lunas|dasar|taris
+lantas,Ya,Bukan,arkian|baru|kalakian|kemudian|lalu|sesudah itu|adv langsung|sertamerta|terus
+lapak,Ya,Bukan,tempat|alas|bantalan|lambar|lapik|sarap|tatakan
+lapang,Ya,Bukan,belantara|lebar|luas|bambang|banglas|jelah|lantang|lawah|leluasa|lepas|melawas|lega|plong|anggal|lengang|lowong|luang|senggang|longgar
+lapis,Ya,Bukan,limpit|rangkap|susun|lapisan
+lapor,Ya,Bukan,memberi tahu|mengadu
+laporan,Bukan,Bukan,berita|informasi|kabar|keterangan|liputan|masukan|petunjuk|warta
+larang,Ya,Bukan,melalau|membendung|memintasi|menahan|mencegah|menegah|mengekang|mengendalikan|menghalangi|mengontrol|menjangankan|mengharamkan
+lari,Ya,Bukan,kabur|pergi|desersi|mangkir 
+laris,Ya,Bukan,kayun|laku|larap
+laut,Bukan,Bukan,bahar|samudra
+layak,Ya,Bukan,adekuat|cukup|memadai|pas|labut|laik|merdesa|mustahak|pantas|patut|semenggah|senonoh|setimpal|sumbut|surup|tampan|wajar|akseptabel|cocok|mulia|terhormat
+layan,Ya,Bukan,meladeni|membantu|menyervis|melawan|menghadapi|menimpali|membalas|membenakan|membilang|memerhatikan|menanggapi|mengambil bena|mengasi|menggubris|menghiraukan|mengindahkan|menjawab|menyambut|merespons|melaksanakan|melakukan|mengendalikan|mengoperasikan|menjalankan
+lazim,Ya,Bukan,biasa|galib|jamak|kaprah|lumrah|natural|normal|regular|tipikal|umum|wajar|baku|banal|formal|konvensional|lugu|naif|polos|populer|sederhana|standard|stereotip
+lebar,Ya,Bukan,bidang|jebab|belantara|lapang|luas
+lebaran,Ya,Bukan,ldulfitri|idulfitri
+lebat,Ya,Bukan,baplang|rimbun|tebal|deras
+legal,Ya,Bukan,aci|asi|benar|berlaku|halal|resmi|sahih|valid
+legalisasi,Ya,Bukan,akreditasi|pengakuan|pengesahan|pengukuhan|peresmian|validasi
+legalitas,Ya,Bukan,keabsahan|kesahihan|validitas
+lekas,Ya,Bukan,acap|bangat|buru-buru|cepat|kunjung|segera|taajul
+lekat,Ya,Bukan,lekap|lengket|likat|rekat|erat|kelat|ketat
+leluasa,Ya,Bukan,bebas|berlapang-lapang|langgas|los |merdeka|lapang|lega|longgar|selesa|bambang|banglas|jelah|lantang|lawah|lepas|luas|lawas
+lemah,Ya,Bukan,benyai |bokoh|bopok |dengkik|layuh|lemas|lemau|lenyai|lesu|letoi|litak|loyo|lunglai|rengsa|ruai|teklok
+lembaga,Ya,Bukan,badan|dewan|institusi|institut|majelis|organisasi|dinas|instansi|jabatan|jawatan|kantor|maktab|asal
+lengkap,Ya,Bukan,afdal|bulat|cukup|genap|integral|jangkap|kafi|kamil|komplet|penuh|pepak|sempurna|tamam|utuh|paripurna|pleno|besar|eksekutif|ensiklopedis|komprehensif|menyeluruh
+lepas,Ya,Bukan,terlepas|a independen|mandiri|merdeka|otonom|swapraja|swasembada
+lestari,Ya,Bukan,abadi|abid|baka|baki|daim|kekal|langgeng|selama-lamanya|sepanjang masa|tetap
+letak,Ya,Bukan,lokasi|posisi|situs|tempat|keadaan|kedudukan|situasi|lemah|lemas|lesu|payah|lapar
+level,Ya,Bukan,cak golongan|kelas|lapisan|tangga|tataran|tingkatan
+libur,Ya,Bukan,prei 
+licin,Ya,Bukan,lecat|lelas|lencong|lencun|licik|lincir|pasar|gampang|gangsar|lancar|lasuh|mudah|halus|klimis|lembut|mulus|berlinang|ki bersih|habis|labas|lindang|lingkap|ludes|tandas|timpas |ki
+lihat,Ya,Bukan,amat-amati|blengok|celik|cendang|cengang|codak|congak|dengik|dongak|jelang|jelangak|jelau|jenguk|jengul|jereng|jingau|juling|jumpa|kelih|kero|kunjung|langut|lawat|lenggak|letos|lihat-lihat|lirik|longok|melotot|membelalak|membelalang|membeliak|membulat|mendelik|mengerling|menjegil|menjeling|menyalang|pandang|pandang berkeliling|pandang ke sanakemari|pandang lekat|pantau|perhati|pesong|ramal|ranggul|renung|renung|runduk|sambang|kunjung|sela|sidik|tampak|tatap|tekur|teleng|temu|tengadah|tengok|tentang|tenung|tilik|tingkap|tinjau|tonton|tujum|tunduk|melihat v  memandang|menampak|mengelih|menjelang|menonton|menyaksikan|merenung|pirsa|melongok|meninjau|menoleh|menyilau|melirik|mencerling|mengambal|mengerling|menjeling|menjuling|memindai|memerhatikan|menatap|mencerap|menentang|mengamati|memata-matai|mengintai|mengintip|membelek|membidik|mengincar|memeriksa|mengawasi|mengecek|menilik|membesuk|menengok|menjenguk|membuktikan|mengetahui
+lingkar,Ya,Bukan,bingkai|gelung|simpai|lintar
+lingkungan,Bukan,Bukan,alam|bumi|dunia|jagat
+lintas,Ya,Bukan,lin|rute|trayek
+lintasan,Bukan,Bukan,gang|jalan|jalur|lebuh|lorong
+lipat,Ya,Bukan,lepit|n ganda
+liput,Ya,Bukan,melaporkan|memberitakan|mengabarkan
+lokal,Ya,Bukan,domestik|tempatan|regional|dalam
+lokasi,Ya,Bukan,kedudukan|letak|posisi|situs|tempat
+lompat,Ya,Bukan,kinja|loncat|lonjak
+loncat,Ya,Bukan,lompat
+longgar,Ya,Bukan,belandung|kebesaran|kombor|komprang|loloh|dol|galir|ganggang|loncer|los|perlup |speling
+luang,Ya,Bukan,anggal|lapang|lega|lengang|longgar|lowong|sempat|senggang
+luas,Ya,Bukan,belantara|besar|lapang|lebar|selebu|a umum|a merata|n dimensi|format|ukuran|a bambang|banglas|jelah|lantang|lapang|lawah|lawas|leluasa|lepas|a ekstensif|ensiklopedis|matang
+luput,Ya,Bukan,bebas|khali|lolos|selamat|sunyi|terhindar|terlepas|tersiah|luncas|melenceng|meleset|sipi|gagal|keliru|pelak|salah|v hilang|lepas|terhindar|terlewat
+lurus,Ya,Bukan,lempeng|lencang|kejur|tegak|vertikal|ki baik|jujur|mulus|polos|sadik|setia|terbuka|tulus|benar|betul|hak|normal|sehat|stabil|hadiah|literal
+maaf,Ya,Bukan,ampun
+mabuk,Ya,Bukan,gayang|gila|hilang ingatan|jangar|khayali|lengar|lupa daratan|lupa
+macam,Ya,Ya,bagai|bangsa|bentuk|corak|jenis|model|ragam|rupa|p bagai|seperti
+macet,Ya,Bukan,bencat|galang|gencat|ketat|pampat|sempit|sendat|serat|terbengkalai|tergencat|terhalang|terhambat|terhenti|tersangkut|tersumbat|tertahan|lumpuh|mandek|mengadat|mogok|rewel|rusak|terbengkalai
+magma,Ya,Bukan,isi perut (bumi)|ladu|lahar|lava
+maha,Bukan,Bukan,sangat
+maha,Bukan,Bukan,amat
+mahal,Ya,Bukan,garib|langka
+mahasiswa,Ya,Bukan,pelajar|murid|siswa
+mahasiswi,Ya,Bukan,pelajar|murid
+main,Ya,Bukan,berjalan|berlangsung|berperan
+mainan,Bukan,Bukan,hiburan|permainan
+majalah,Ya,Bukan,akbar|barang cetakan|buku|jurnal|organ|risalah|surat berkala
+maju,Ya,Bukan,berkembang|lanjut|lulus|mara|melaju|melantas|a liberal|modern|progresif
+maka,Ya,Ya,alkisah|bahwa|hingga|lalu|dan
+makan,Ya,Bukan,dahar|mamah|santap
+makanan,Bukan,Bukan,incaran|konsumsi|mangsa|pangan|rezeki|santapan|sasaran
+makhluk hidup,Bukan,Bukan,organisme
+maksimal,Ya,Bukan,maksimum|mentok|pol|sebanyak-banyaknya|setinggi-tingginya|suntuk|tertinggi
+maksimum,Ya,Bukan,maksimal|paling banyak|paling besar|paling tinggi|penuh|pol|teratas|tertinggi|top
+maksud,Ya,Bukan,angan-angan|arah|arti|bunyi|cita-cita|hajat|haluan|harapan|hasrat|hikmat|huyung|ijtihad|implikasi|isi|juntrungan|kecondongan|kehendak|keinginan|makna|matlamat|mau|murad|niat|pamrih|pendapat|rencana|sasaran|semangat|siratan|tafsiran|target|tembakan|tendensi|tujuan|tuntutan|ujud|wujud
+malah,Ya,Ya,apalagi|bahkan|justru|lebih lagi|lebih-lebih|malar-malar|sampai-sampai|tambahan pula|terlebih
+manfaat,Ya,Bukan,arti|faedah|fungsi|guna|harga|kebaikan|kemaslahatan|keuntungan|khasiat|laba|untung|utilitas
+mantap,Ya,Bukan,afdal|aman|konsisten|konstan|kuat|kukuh|mapan|pagan|pasti|percaya
+masalah,Ya,Ya,bab|hal|ihwal|kasus|kejadian|kesulitan|pasal|penyakit |perkara|persoalan|pertanyaan|problem|soal|urusan
+mau,Ya,Ya,akan|amuh|bakal|berkenan|bersedia|bersetuju|domba|embuh|hendak|kasdu|kasik|kepingin|lepau|sanggup|sedia|sir|solak|sudi|suka
+meja,Ya,Bukan,bidang datar|kenap
+memang,Ya,Ya,ada|benar|benar-benar|cengki|cengli|dasar|masuk akal|patut|sebenarnya|sungguh|sungguh-sungguh
+membagi,Bukan,Bukan,memaruh|membelah|memecah|memenggal|memilah|memisah|memotong|memberi|mengasih
+membaik,Bukan,Bukan,pulih|sehat|sembuh
+meski,Ya,Ya,biar|kendati|lamun|pun|sungguhpun|walaupun
+meskipun,Bukan,Ya,biarpun|kendatipun|maupun|sedangkan|sekalipun|selangkan|sungguhpun|walaki|walaupun
+mewah,Ya,Bukan,berlebih-lebihan|glamor|kaya|lewah|melimpah ruah|penuh ruah
+milik,Ya,Bukan,eigendom|hak|hoki|kepunyaan|nasib baik|peruntungan|properti
+minggu,Ya,Bukan,ahad|pekan
+misal,Ya,Ya,aci-aci|amsal|andai-andai|contoh|ibarat|laksana|perumpaan|umpama
+natural,Ya,Bukan,alami|alamiah|biasa|jamak|lazim|lumrah|reguler|wajar|bersahaja|jujur|lugu|naif|spontan|tulus
+nyaman,Ya,Bukan,adem|aman|bugar|damai|enak|fit|makmur|naim|nikmat|sedap|segar|sehat|sejuk|selesa|senang|sip |tenteram
+obat,Ya,Bukan,penawar|remedi
+oleh,Ya,Ya,cak  sama|akibat|karena|sebab|bagi|untuk
+pada,Ya,Ya,cak  ala|atas|di|cukup|lumayan|sedang|lega|plong|puas|tenang
+pada awalnya,Bukan,Bukan,lebih dahulu
+pagi-pagi,Bukan,Bukan,awal
+paham,Ya,Bukan,pengertian|n anggapan|asumsi|kesimpulan|opini|pendapat|pendirian|pikiran|simpulan|suara|v bangun|engah|grahita|insaf|mafhum|maklum|mengerti|pirsa|sadar|tahu  a ahli|cakap|kompeten|mahir|pintar|n adicita|ajaran|aliran|doktrin|fikrah|filsafat|haluan|ideologi|mazhab|pan-dangan|prinsip
+paling,Ya,Ya,membelokkan|memutar|mengelokkan|menyesatkan|menyimpangkan|amat|teramat
+pamer,Ya,Bukan,memajang|memperagakan|memperlihatkan|mempertontonkan|mempertunjukkan|menampakkan|mendemonstrasikan|mengekspos|menonjolkan
+pameran,Bukan,Bukan,demonstrasi|ekshibisi|eksposisi|peragaan|pertunjukan
+panas,Ya,Bukan,bahang|kolor|a beringsang|gerah|n dedar|demam|meriang|n kemarau|kering|a berbahaya|bergolak|gawat|genting|kritis|tegang|a ki erotis|hot |memberahikan|menggairahkan|menggiurkan|merangsang|seksi|sensual|seronok
+pariwisata,Ya,Bukan,pelancongan|turisme|wisata
+partisipasi,Ya,Bukan,kesertaan|keikutsertaan|keterlibatan|kontribusi|kerja sama|peran
+pasangan,Bukan,Bukan,bagian|imbangan|jodoh|kembaran|larap|lawan|partner|sandingan|setelan |tandingan|teman|sematan|tempelan
+pasti,Ya,Ya,absolut|aman|benar|definit|jelas|kategoris|konstan|mantap|mesti|niscaya|nyata|persis |positif|puguh|sabit|sah|sip |tandas|tegas|tentu|terang
+patah,Ya,Bukan,bias|kupak|pukah|sempal|terpenggal|terpotong|ki bubar|kandas|terhenti
+patahan,Bukan,Bukan,keratan|penggalan|potongan
+patung,Ya,Bukan,arca|reca
+patung-mematung,Bukan,Bukan,pahat-memahat
+payah,Ya,Bukan,capek|lelah|letih|penat|akut|berat|biut|gawat|genting|keras|kritis|kronis|lasat|membandel|menahun|parah|sangat|serius|lambat|sendat|melempem|pelik|rumit|runyam|selit belit|sukar|sulit|susah|cengeng|lemah|lembek|rapuh|ringkih|soak 
+payung,Ya,Bukan,parasut|payung udara|ki patron|pelindung|pengayom
+pedagang,Bukan,Bukan,bakul|biaperi|broker|calo|distributor|grosir|juragan|khoja|pebisnis|pemasok|pemborong|pengasong|pengecer|pengedar|pengekspor|penggalas|pengimpor|pengurup|pengusaha|peniaga|penjaja|penjual|penyalur|peraih|peruncit|pialang|rentenir|saudagar|tauke|tukang kredit|usahawan|wiraniaga
+pegawai,Bukan,Bukan,fungsionaris|karyawan|personel|sida-sida|tenaga kerja
+pegunungan,Bukan,Bukan,gunung-gemunung|gunung-gunung|rangkaian gunung
+pejabat,Bukan,Bukan,administratur|atasan|kepala|majikan|orang besar|pembesar|pemimpin|penggede |pemangku|pemegang|penguasa
+pekan,Ya,Bukan,pasar|rekan|minggu
+pekerja,Bukan,Bukan,aktivis|pegiat|pelaku|praktisi
+pelajar,Bukan,Bukan,anak didik|anak sekolah|cantrik|kadet|mahasiswa|mahasiswi|murid|penuntut|praja|siswa|siswi|studen 
+pelan,Ya,Bukan,ayal|lamban|lambat|lelet|halus|lembut|lirih|rendah|alun-alun|lapangan|tanah lapang
+pelanggan,Bukan,Bukan,klien|konsumen|nasabah
+pelayan,Bukan,Bukan,abdi|babu|bayu|bedinda|benduan|budak|bujang|hamba|jongos|kacung|kawula|khadam|peladen|pembantu|peon|pesuruh|pramuwisma|sahaya|tambi
+peliput,Bukan,Bukan,pemberita|penulis
+pelosok,Ya,Bukan,ceruk|penjuru|pojok|pelojok|sudut
+peluang,Ya,Bukan,angin |harapan|jalan|kans|keleluasaan|kesempatan|pintu 
+pemaaf,Bukan,Bukan,lapang hati|pemurah|pengampun|permisif|sabar|toleran
+pemahaman,Bukan,Bukan,apresiasi|interpretasi|keinsafan|kesadaran|kognisi
+pemakai,Bukan,Bukan,konsumen|nasabah|pelanggan|pengguna
+pemakaian,Bukan,Bukan,konsumsi|pemanfaatan|penggunaan
+pemalu,Bukan,Bukan,celingus
+pemandangan,Bukan,Bukan,pandangan|pengamatan|penglihatan|visi|pengetahuan|wawasan|lansekap|panorama|tamasya|vista|pembicaraan|ulasan|uraian
+pemandian,Bukan,Bukan,kolam renang
+pemandu,Bukan,Bukan,pembimbing|pengarah|penunjuk jalan|mediator|moderator|penengah
+pembangunan,Bukan,Bukan,pembentukan|pendirian|penyusunan|ekspansi|pengembangan|perluasan
+pembatas,Bukan,Bukan,dinding|partisi|pemisah|penyekat|pewatas|sekat|tabir|tembok
+pembatasan,Bukan,Bukan,pemisahan|penyekatan
+pembeli,Bukan,Bukan,konsumen|pemesan
+pemberitahuan,Bukan,Bukan,amanat|berita|pemberitaan|pencanangan|kabar
+pembersihan,Bukan,Bukan,eliminasi|penghapusan
+pemelihara,Bukan,Bukan,pengasuh|pembela|guru|penjaga|perawat
+pemeriksaan,Bukan,Bukan,inspeksi|kir |kontrol|pengamatan|pengawasan|pengecekan|penilikan|penjagaan|penyeliaan|supervisi|survei|eksplorasi|investigasi|interogasi|penelitian|pengusutan|peninjauan|penyelidikan|penyidikan|tafahus
+pemerintah,Bukan,Bukan,penguasa|negara|negeri
+pemerintahan,Bukan,Bukan,rezim|tadbir
+pemilik,Bukan,Bukan,pengambil|empunya
+pemula,Bukan,Bukan,pembimbing|pembuka jalan|pemimpin|pemuka|peneroka|penganjur|perintis
+pemulihan,Bukan,Bukan,penyembuhan|perbaikan|rehabilitasi|pemulangan|pengembalian
+penambahan,Bukan,Bukan,interpolasi|kenaikan|peluasan|pemayangan|penggandaan|pengisian|penguluran|peninggian|penokokan|penyisipan
+penampilan,Bukan,Bukan,kinerja|prestasi|manifestasi|penampakan|pengejawantahan|performa
+penari,Bukan,Bukan,bedaya|penandak|penayub|peronggeng|tukang tari
+penataan,Bukan,Bukan,organisasi|pembenahan|pembentukan|penciptaan|penertiban|pengarahan|pengaturan|pengeditan|pengelolaan|pengemasan|pengurusan|penyusunan|penyutradaraan|perakitan|perancangan|perekaan|sistematika|sistematisasi
+penawaran,Bukan,Bukan,ijab|negosiasi|pelamaran|pelelangan|penunjukan|permintaan|permohonan|tender
+pencaharian,Bukan,Bukan,penghidupan|pekerjaan
+pencegah,Bukan,Bukan,pengawas|pembantar|barikade|pengempang|pengawal
+pencegahan,Bukan,Bukan,pengawasan|pengharaman|penghindaran|pengawalan|pengekangan
+pencemaran,Bukan,Bukan,kontaminasi|pengotoran|polusi
+pendahuluan,Bukan,Bukan,alas kata|haluan kata|introduksi|kata pengantar|mukadimah|pembukaan|pengantar kata|pengenalan|permulaan|pimpinan|prakata|prawacana|prolog
+pendatang,Bukan,Bukan,ekspatriat|imigran|orang
+pendek,Ya,Bukan,cepak|pandak|senteng|sebentar|sececah|sejemang|sejenak|sejurus|sekeceng|sekejap|sekelebat|sekilas|selincam|sepemakan sirih |sepintas|sesaat|kompak|ringkas|simpan|singkat|sontok|sumir 
+pendidikan,Bukan,Bukan,bimbingan|didikan|edukasi|kuliah|kursus|pelajaran|pelatihan|pembelajaran|pemberadaban|pembibitan|pemeliharaan|pencerahan|pengajaran|pengasuhan|penggemblengan|penggodokan|sekolah|tarbiah|tuntunan
+penduduk,Bukan,Bukan,masyarakat|orang|penghuni|penunggu|populasi|rakyat|warga
+penelusuran,Bukan,Bukan,pelacakan|pencarian|penelaahan|penjajakan
+penempatan,Bukan,Bukan,peletakan|pemasangan|pemindahan|pembubuhan|pencantuman|penghijrahan|penugasan
+penerapan,Bukan,Bukan,aplikasi|implementasi|pelaksanaan|pemakaian|pengamalan|penggunaan|praktik|rekayasa|pemasangan|perakitan|produksi
+penerbangan,Bukan,Bukan,perjalanan|penaikan|navigasi
+pengalihan,Bukan,Bukan,pelimpahan|pemberian|pemindahan|penggantian|pengubahan|penukaran|penyerahan
+pengaman,Bukan,Bukan,laskar|hansip|pendamai|penenteram|pengawal|penjaga|penyelamat|polisi|prajurit|satpam|tentara
+pengawas,Bukan,Bukan,bos |inspektur|kepala|mandor|nadir|pemeriksa|pencegah|peneliti|pengamat|pengawal|pengelola|pengontrol|penilik|penjaga|penyelia|penyelidik|peronda|supervisor
+pengawasan,Bukan,Bukan,inspeksi|kontrol|pemeliharaan|pemeriksaan|pencegahan|penelitian|pengamatan|pengendalian|penilikan|penjagaan|penyeliaan|perlindungan|supervisi
+pengelola,Bukan,Bukan,administrator|kepala|manajer|organisator|pelaksana|pelatih|pemangku|pemerintah|pemimpin|pendidik|pengarah|pengasuh|pengawas|pengurus|penyelenggara|wali
+pengelolaan,Bukan,Bukan,manajemen|penyelenggaraan|tata
+pengelompokan,Bukan,Bukan,kategorisasi|penggolongan|penjenisan
+pengemudi,Bukan,Bukan,joki|juru mudi|kusir|masinis|mualim|nakhoda|pemandu|pendayung|penerbang|pengendara|pilot|sais|sopir
+penggalangan,Bukan,Bukan,konsolidasi|pembentukan|peneguhan|pengikatan|penguatan|pengukuhan
+pengguna,Bukan,Bukan,konsumen|pemakai
+penghasil,Bukan,Bukan,karyawan|pembina|pembuat|pencetus|pencipta|pengilang|pereka|produsen|produser
+penghasut,Bukan,Bukan,agitator|batu api|kacang miang|pemfitnah|pengumpat|provokator
+penginapan,Bukan,Bukan,pondokan|(rumah) pemalaman|rumah bermalam|rumah tumpangan
+pengiriman,Bukan,Bukan,pengangkutan|pengapalan|transportasi|transmisi
+pengizinan,Bukan,Bukan,pengesahan
+pengorbanan,Bukan,Bukan,dedikasi|loyalitas|pengabdian
+pengumuman,Bukan,Bukan,berita|embaran|maklumat|pariwara|pemberitahuan|siaran|warawara|warta|penyebarluasan|penyiaran
+pengunjung,Bukan,Bukan,hadirin|tamu
+pengurangan,Bukan,Bukan,deklinasi|diskon|kontraksi|pembatasan|pemotongan|penciutan|pengampunan|pengecilan|pengenduran|penurunan|penyusutan|perampingan|peringanan|rabat|reduksi|remisi
+pengusaha,Bukan,Bukan,juragan|produser|saudagar|usahawan|wiraswasta|wirausaha
+penjadwalan,Bukan,Bukan,pencatatan|pendaftaran|pengagendaan|perencanaan|persiapan
+penjualan,Bukan,Bukan,pemasaran|perdagangan
+penonton,Bukan,Bukan,pemirsa|pengamat|pirsawan|saksi|spektator
+pentas,Ya,Bukan,arena|forum|mimbar|panggung
+penunjuk,Bukan,Bukan,indeks|indikator|penanda
+penuntutan,Bukan,Bukan,penagihan
+penutupan,Bukan,Bukan,pengakhiran|penghentian|penyetopan|penyudahan|pembubaran
+penyambutan,Bukan,Bukan,penantian
+penyampai,Bukan,Bukan,pelapor|pemberita|wartawan
+penyampaian,Bukan,Bukan,pengajuan|dakwah|pendeklamasian|presentasi|penyajian
+penyimpan,Bukan,Bukan,penabung
+penyuluh,Bukan,Bukan,instruktur|pelatih|pembimbing|pendidik|pengajar|pengasuh|penjaga|penuntun|agen rahasia|polisi
+penyuluhan,Bukan,Bukan,konseling|pengarahan
+peraturan,Bukan,Bukan,cara|gaya|kaidah|order|patokan|prinsip|reglemen|sistem|susunan|syarat|tata|tata tertib|tatanan
+perbaikan,Bukan,Bukan,koreksi|pembaruan|pembetulan|pemeriksaan|pemindaan|pemugaran|pemulihan|penyempurnaan|perombakan|perubahan|ralat|reformasi|rehabilitasi|rekonsiliasi|rekonstruksi|renovasi|reparasi|restorasi|revisi|servis|suntingan
+perbandingan,Bukan,Bukan,analogi|ibarat|kesetaraan|kesetimpalan|komparasi|nisbah|parameter|patokan|pedoman|perbedaan|perimbangan|perpadanan|perpaduan|persamaan|pertimbangan|perumpamaan|proporsi|rasio|skala|tolok ukur
+perbanyak,Bukan,Bukan,hitung
+perbedaan,Bukan,Bukan,antagonisme|diskrepansi|dismilaritas|disparitas|distingsi|divergensi|farak|kelainan|kontras|parak|pertikaian|selisih|variasi
+percobaan,Bukan,Bukan,eksperimen|pemeriksaan|penelitian|penyelidikan|riset|tajribah|tes
+perdagangan,Bukan,Bukan,bazar|bursa|ekspor impor|penggalasan|perbelanjaan|perbisnisan|perkulakan|perniagaan
+perencanaan,Bukan,Bukan,menghampirkan|penjadwalan|perancangan
+peresmian,Bukan,Bukan,pembukaan|legalisasi|pengesahan|validasi
+performa,Ya,Bukan,penampilan|prestasi
+maaf,Ya,Bukan,ampun
+mabuk,Ya,Bukan,gayang|gila|hilang ingatan|jangar|khayali|lengar|lupa daratan|lupa
+macam,Ya,Ya,bagai|bangsa|bentuk|corak|jenis|model|ragam|rupa|p bagai|seperti
+macet,Ya,Bukan,bencat|galang|gencat|ketat|pampat|sempit|sendat|serat|terbengkalai|tergencat|terhalang|terhambat|terhenti|tersangkut|tersumbat|tertahan|lumpuh|mandek|mengadat|mogok|rewel|rusak|terbengkalai
+magma,Ya,Bukan,isi perut (bumi)|ladu|lahar|lava
+maha,Bukan,Bukan,sangat
+maha,Bukan,Bukan,amat
+mahal,Ya,Bukan,garib|langka
+mahasiswa,Ya,Bukan,pelajar|murid|siswa
+mahasiswi,Ya,Bukan,pelajar|murid
+main,Ya,Bukan,berjalan|berlangsung|berperan
+mainan,Bukan,Bukan,hiburan|permainan
+majalah,Ya,Bukan,akbar|barang cetakan|buku|jurnal|organ|risalah|surat berkala
+maju,Ya,Bukan,berkembang|lanjut|lulus|mara|melaju|melantas|a liberal|modern|progresif
+maka,Ya,Ya,alkisah|bahwa|hingga|lalu|dan
+makan,Ya,Bukan,dahar|mamah|santap
+makanan,Bukan,Bukan,incaran|konsumsi|mangsa|pangan|rezeki|santapan|sasaran
+makhluk hidup,Bukan,Bukan,organisme
+perkebunan,Bukan,Bukan,ladang|perladangan|pertanian
+perkembangan,Bukan,Bukan,kelanjutan|kemajuan|pertambahan|pertumbuhan|perubahan|perurutan|jalan|kronologi|urut-urutan
+perkenalan,Bukan,Bukan,taaruf
+perkiraan,Bukan,Bukan,ancangan|ancar-ancar|anggaran|anggapan|asumsi|dugaan|estimasi|evaluasi|gambaran|pengandaian|perhitungan|prediksi|ramalan|rekaan|spekulasi|taksiran
+perkisaran,Bukan,Bukan,peredaran|perputaran|revolusi|rotasi|sirkulasi
+perkumpulan,Bukan,Bukan,asosiasi|federasi|gabungan|perhimpunan|perikatan|kelompok|klub|kongsi|masyarakat|persatuan|persekutuan|perserikatan|uni
+perlahan,Ya,Bukan,gontai|lembut|rendah|ringan
+perlindungan,Bukan,Bukan,asilum|benteng|bungker|perisai|pertahanan|tameng|konservasi|pelestarian|pemeliharaan|penjagaan|perawatan|preservasi|pengamanan|proteksi|sekuriti
+perlintasan,Bukan,Bukan,peralihan|transisi
+perlu,Ya,Ya,harus|kudu|mesti|niscaya|usah|wajib|a krusial|mendesak|penting|urgen|vital|v butuh|ingin|p demi|untuk
+perluasan,Bukan,Bukan,ekspansi|pengembangan
+permainan,Bukan,Bukan,mainan|atraksi|pertunjukan|tontonan|tipuan
+permasalahan,Bukan,Bukan,persoalan
+permintaan,Bukan,Bukan,ajakan|amanat|anjuran|aplikasi|desakan|doa|pengharapan|imbauan|klaim|lamaran|panggilan|permohonan|petisi|pinangan|pinta|rayuan|rekes|seruan|suruhan|tempahan|undangan
+permisi,Ya,Bukan,izin|perkenan|v berpamitan|minta diri|minta izin|mohon diri
+permohonan,Bukan,Bukan,aplikasi|permintaan|petisi|tuntutan
+permukaan,Bukan,Bukan,parasan|bidang|latar|meres|satah|rataan
+permukiman,Bukan,Bukan,kawasan tinggal|koloni|kompleks|perumahan
+permulaan,Bukan,Bukan,alamat|asal|asas|awal|bakai|dada|dasar|depan|hulu|ibtida|iftitah|kepala|muka|pangkal|pendahuluan|puncak|sedar
+pernah,Ya,Ya,sempat|suah|sudah|tahu
+perombakan,Bukan,Bukan,penguraian|pembongkaran
+perpadanan,Bukan,Bukan,kombinasi|perpaduan
+perpaduan,Bukan,Bukan,kombinasi|perpadanan|harmonisasi|persesuaian|sinkronisasi
+perpanjangan,Bukan,Bukan,ekstensi|sambungan|tambahan
+perpelancongan,Bukan,Bukan,kepariwisataan|turisme
+perpindahan,Bukan,Bukan,mutasi|peralihan|peranjakan|pergeseran|transfer|migrasi|anadrom|ruaya
+persatuan,Bukan,Bukan,aliansi|asosiasi|blok|bon|gabungan
+persaudaraan,Bukan,Bukan,perkerabatan|pertalian
+persebaran,Bukan,Bukan,pedaran|sirkulasi
+persediaan,Bukan,Bukan,bekal|sangu|sediaan
+persen,Ya,Bukan,bayaran|bonus|komisi|obat jerih|pembasuh tangan|premi|tip|uang rokok|upah
+persentase,Ya,Bukan,bagian
+persiapan,Bukan,Bukan,ancang-ancang|anju|awalan
+persinggahan,Bukan,Bukan,pelabuhan|pesanggrahan|tempat singgah
+persyaratan,Bukan,Bukan,perjanjian|kualifikasi
+pertemanan,Bukan,Bukan,perkawanan|persahabatan
+pertemuan,Bukan,Bukan,percakapan|diskusi|perhimpunan|perjamuan|perjodohan
+pertengahan,Bukan,Bukan,medio|a rata-rata
+pertimbangan,Bukan,Bukan,alasan|estimasi|evaluasi|komentar|kritik|penilaian|tanggapan|advis|bicara |fatwa|masukan|nasihat|pandangan|pendapat|pengarahan|petuah|petunjuk|rekomendasi|saran|wejangan
+pertukaran,Bukan,Bukan,alterasi|pergantian|pergiliran|perputaran|perubahan|persilihan|kisaran|peralihan|pergeseran|perpindahan
+pertumbuhan,Bukan,Bukan,kemajuan|perkembangan|pertambahan|progres
+pertunjukan,Bukan,Bukan,atraksi|pementasan|pergelaran|tayangan|tontonan|demonstrasi|ekshibisi|pameran|peragaan|presentasi
+perusakan,Bukan,Bukan,destruksi|pecahan|pelarutan|peleburan|pelembutan|pelenyapan|peluluhan|peluluhlantakan|pelumatan|pembajakan|pembinasaan|pemorakporandaan|pemusnahan|pencairan|pencernaan|pengganyangan|penggemburan|penghancurleburan|pengunyahan|penjahanaman|penumbangan|perobohan|peruntuhan|perusakan|sabotase|vandalisme
+perwujudan,Bukan,Bukan,konkretisasi|manifestasi|pelaksanaan|pengaktualan|pengejawantahan|penjelmaan
+pesaing,Bukan,Bukan,kompetitor|konkuren|lawan|oponen|rival
+pesawat,Ya,Bukan,kapal terbang|kapal udara|pesawat terbang|pesawat udara|alat|mesin|motor
+peserta,Bukan,Bukan,akseptor|anggota|pengikut|kandidat|kontestan|partisipan
+pesiar,Bukan,Bukan,berdarmawisata|berekreasi|berkelah|berpelesir|bertamasya|berwisata|dolan|jalan-jalan|melancong|piknik
+pewujudan,Bukan,Bukan,penghasilan|penubuhan
+pihak,Ya,Ya,bagian|paksa|sayap|sebelah|sisi
+piknik,Ya,Bukan,berdarmawisata|berekreasi|berkelah|berpelesir|berpesiar|bertamasya|berwisata|jalan-jalan|melancong
+pimpinan,Bukan,Bukan,arahan|bimbingan|didikan
+pindah,Ya,Bukan,alih|tukar|bermigrasi|mengimbit|mengungsi
+platform,Ya,Bukan,garis haluan|kebijakan|deklarasi|maklumat|manifesto|pernyataan
+populer,Ya,Bukan,beken |eminen|hit|kenamaan|kondang|marak|masyhur|mengakar |merakyat|naik daun|prominen|tenar|terkenal|ternama|terpegah|tersohor|banal|bersahaja|biasa|konvensional|lazim|standar|umum
+prioritas,Ya,Bukan,pengutamaan|preferensi|prerogatif
+produk,Ya,Bukan,barang|buatan|ciptaan|komoditas|keluaran|kreasi|produksi|rakitan
+produksi,Ya,Bukan,pabrikasi|pembuatan|penerapan|perakitan|buatan|kreasi|produk
+program,Ya,Bukan,acara|agenda|cadangan|kalender|skedul |rencana|tata olah
+prosedur,Ya,Bukan,jalan|langkah|metode|modus
+publikasi,Ya,Bukan,embaran|notifikasi|permakluman|pengumuman|proklamasi|siaran
+radius,Ya,Bukan,jari-jari|jejari|sinar
+rancangan,Bukan,Bukan,agenda|angan-angan|bagan|buram|dasar|draf|fantasi|jalinan|kirakira|pelan|persediaan|persiapan|plot|program|rang|rangka|rangrangan|rekarekaan|rencana|susunan acara|tata acara
+rangkaian,Bukan,Bukan,deretan|hubungan|ikatan|jalinan|jurai|karangan|kumpulan|pertalian|rantaian|rentetan|rumpun|runtunan|sambungan|susunan|untaian
+rangkuman,Bukan,Bukan,ikhtisar|ringkasan
+reaktualisasi,Ya,Bukan,pembaharuan|penyegaran
+redaksi,Ya,Bukan,sidang pengarang
+rekomendasi,Ya,Bukan,anjuran|konseling|referensi|saran|sugesti
+rekreasi,Ya,Bukan,piknik|tamasya|tur|wisata
+relatif,Ya,Bukan,nisbi
+rencana,Ya,Bukan,acara|agenda|bagan|buram|dasar|draf|jadwal|konsep|plan|persediaan|persiapan|program|rancangan|rangka|rangrangan|rengrengan
+resmi,Ya,Bukan,formal|sah
+retribusi,Ya,Bukan,pungutan
+revitalisasi,Ya,Bukan,penyegaran
+riang,Ya,Bukan,daya|kekuatan|kuasa|larat|tenaga|gembira|girang hati|ria|suka hati|sukacita|sukaria
+riang gembira,Bukan,Bukan,girang hati|meriah|ramai|suka hati|sukaria
+rincian,Bukan,Bukan,hamparan
+risiko,Ya,Bukan,akibat|efek
+risikonya,Bukan,Bukan,akibatnya
+ruang,Ya,Bukan,bagian|bilik|celah|ceruk|gua|kalangan|kamar|kawasan|kolom|kurung|lajur|lapangan|liang|lingkungan|lubang|mimbar|palka|pangsa|pojok|rongga|rubrik|sal|sela-sela|tempat|jeluk|kolong|lekuk|lubuk|relung
+sambang,Bukan,Bukan,kunjung|tandang|ronda
+sangat,Ya,Ya,amat|banyak|benar|benar-benar|berat |besar|betul|bukan alang kepalang|bukan main|hebat|luar biasa|maha-|paling|payah|sekali|sungguhsungguh|super|terlalu|terlampau
+sanggar,Ya,Bukan,bengkel seni|padepokan|studio
+setuju,Ya,Bukan,setujuan|akur|mufakat|putus
+siaga,Ya,Bukan,prayitna|siap sedia|waspada
+signifikan,Ya,Bukan,bena|berarti|bermakna|istimewa|penting|relevan|substansial|bernas|kaya
+spektakuler,Ya,Bukan,dahsyat|dramatis|fantastis|hebat|impresif|luar biasa|maut |megah|mengagumkan|menggemparkan|menghebohkan|semarak|sensasional
+spesifik,Ya,Bukan,distingtif|idiosinkratis|individual|istimewa|karakteristik|khas|partikular|spesial|khusus|terbatas|definit|jelas|kategoris|tegas|tertentu
+strategi,Ya,Bukan,cetak biru|desain|muslihat|program|rencana|siasat|skema|garis haluan|kebijakan|khitah|pendekatan|politik|prosedur
+strategis,Ya,Bukan,penting|vital|diplomatis|politis|taktis
+suasana,Ya,Bukan,cuaca|hawa|udara|atmosfer|nada|semangat|spirit|iklim|keadaan|kondisi|situasi
+subur,Ya,Bukan,berjebah|berlambak|berlimpah|fertil|gemuk|kaya|produktif|kreatif|inventif
+sukarela,Ya,Bukan,ikhlas|rela|tulus|bebas|manasuka
+"sempit,""Ya"",""Bukan"",""ketang|ketat|kincup|sendat|sesak|sepan |terik|sumpek|kecil|kopet|mepet|sedikit|ki cetek|cupet|dangkal|kurang pikir|parokial|provinsial|kerdil|pendek akal|picik|sempit mata|suntuk"""
+sukarelawan,Ya,Bukan,volunter
+sukaria,Ya,Bukan,girang hati|riang gembira|suka
+surga,Ya,Bukan,adnan|firdaus|nirwana|indraloka|kayangan|kedewaan|keindraan|suargaloka|suralaya|ki asilum|suaka
+taksir,Ya,Bukan,anggaran|hisab|hitung|kira-kira|nilai|perhitungan|rancangan
+taktik,Ya,Bukan,akal|cara|diplomasi|gaya|jalan|kaidah|kiat|kunci |langkah|metode|muslihat|putar belit|rahasia|rencana|resep|set |siasat|strategi|trik|usaha
+taktis,Ya,Bukan,diplomatis|politis|strategis
+takuk,Ya,Bukan,cangap|gubang|ketak|luk|rakuk|takik|toreh|tukik
+tantang,Ya,Bukan,melawan|mengajak (berkelahi)|menempuh|menghadang|menghadapi|menyongsong|merencah
+target,Ya,Bukan,alamat|ambisi|bahan|bulan-bulanan |incaran|intensi|maksud|objek|sasaran|tujuan|tumpuan|tuntutan
+tari,Ya,Bukan,ajojing|dansa|joget|ronggeng|tandak
+tarif,Ya,Bukan,bayaran |bea|beban|biaya|daftar ongkos|daftar sewa|harga|pajak|pungutan
+tarik,Ya,Bukan,anjur|betot|cabut|eret|ganjur|hela|hunus|raih|rebut|renggut|sentak|seret
+tatap,Ya,Bukan,lihat
+tawar,Bukan,Bukan,payau|adem|anyep|campah|cemplang|hambar (rasa)|basi|batal|batil|reda|surut|dingin |kering |hampa|kecut|sumbing|netral|cak menawar
+tegak,Ya,Bukan,berdiri|cacak|cegak|kokoh|kuat|kukuh|lempang|lurus|sigap|teguh|vertikal|tegar|teguh
+tegas,Ya,Ya,bahana |bayan|berandang|curai|eksplisit|gamblang|jelas|kasar|kentara|mencolok|nyata|terang|tebal|definit|kategoris|pasti|positif|tandas|tentu
+tegur,Ya,Bukan,sapa(an)|teguran
+tekad,Ya,Bukan,ambisi|animo|cekal|cita-cita|dorongan hati
+tekan,Ya,Bukan,melanyak|melindas|membenamkan|memencet|memijit
+teknik,Ya,Bukan,cara|gaya|jalan|kiat|metode|modus operandi|proses|siasat|sistem
+tekstur,Ya,Bukan,jalinan|komposisi|kualitas|permukaan|struktur
+telak,Ya,Bukan,jitu|langsung|pas|persis |tepat|mutlak|sepenuhnya
+
+telanjang,Ya,Bukan,bugil|loncos|urian|v terhunus|a terbuka|gamblang|jelas|polos|transparan
+telantar,Ya,Bukan,kapiran|terabai|terbengkalai|terbiar|terhantar|terlalaikan|terlupakan|tersia-sia
+telap,Ya,Bukan,mempan
+telas,Ya,Bukan,bantalan|galang|ganjal|kalang|landasan|lapik
+telatah,Ya,Bukan,gerak gerik|kelakuan|perangai|perilaku|sepak terjang|sikap|tabiat|tindak
+telatak,Bukan,Bukan,rakit
+telatap,Ya,Bukan,rakit
+telaten,Ya,Bukan,cermat|hati-hati|open|teliti|betah|tahan|sabar|rajin|tekun
+telau,Ya,Bukan,belang|bercak|noda|nuansa
+tele,Ya,Bukan,berbelit-belit|berbelok-belok|berbolak-balik|berhanyut-hanyut|berkepanjangan|berlarut-larut|berleleran |berliku-liku|berpanjang-panjang|berputar
+teledor,Ya,Bukan,abai|alpa|ceroboh|gegabah|lalai|lengah|sembarangan|sembrono|serampangan|silap mata
+teledor hantam kromo,Bukan,Bukan,sembarangan
+teliti,Ya,Bukan,awas|jeli|akurat|cermat|ketat|korek|kritis|open|saksama|siasat|tepat
+teluk,Ya,Bukan,perairan|lekuk
+telungkup,Ya,Bukan,menangkup|menelangkup|menengkurap|meniarap|menjerahap|menyungkur
+telusur,Ya,Bukan,jajak|jelajah|rambah|susur|sisir
+tema,Ya,Bukan,inti|isu|judul|poin|pokok pikiran|subjek|tajuk|topik
+teman,Ya,Bukan,handai|ikhwan|kanti|kawan|kenalan|kolega|kompanyon|konco |kroni|mitra|pengantar|rekan|sahabat|saudara|sejawat|sekutu|sobat |tandem|tolan|jodoh|lawan|pasangan|regu|sandingan|setelan
+tempat,Ya,Ya,ajang|bekas|sarung|wadah
+temperatur,Ya,Bukan,suhu|hawa
+tempuh,Ya,Bukan,melalui|melewati|melintasi|menerabas|menerobos|menyusuri|melakoni|menanggung|mengalami|mengarungi|mengecap|mengenyam|menjalani|menyeberangi|menyelami|merasai|menantang|menghadang|menghadapi|menyongsong|memasuki|mengambil|mengikuti|menuruti|bangun |ganti rugi|kompensasi|pampas(an)|restitusi
+temu,Ya,Bukan,jumpa|sua
+tenaga,Ya,Bukan,daya|energi|gaya|kekuatan|kemampuan|stamina|karyawan|pegawai|tenaga kerja
+tenang,Ya,Bukan,diam|hening|mati|ranah|senyap|sepi|sirep|sunyi|anteng|kalem|kepala
+tenar,Ya,Bukan,beken |eminen|kenamaan|kondang|masyhur|naik daun|populer|prominen|terkenal|ternama|tersohor
+tenda,Ya,Bukan,bivak|kamp|kemah
+tendang,Ya,Bukan,depak|sepak|terjang
+tengah,Ya,Ya,pusat|senter|sentral|antara|sela-sela|para|paruh|perdua|lagi|masih|sedang|p ketika|selagi|sementara|tatkala
+tenggang,Ya,Bukan,antara|batas waktu|jangka waktu|kurun waktu|selang|tempo|akal|cara|ikhtiar|jalan|upaya|usaha
+tenggelam,Ya,Bukan,karam|kelebu|kelelap|menyelam|v ayun-temayun|bergeser|bergulir|condong|jatuh|masuk|terbenam|tergelincir|terpuruk|turun|hilang|lenyap|lesap|pupus|a ki asyik|enak-enak|larut|lupa diri|mandam |sibuk|terlena
+tengok,Ya,Bukan,toleh
+tenong,Ya,Bukan,bakul|ketumbu
+tensi,Ya,Bukan,kegelisahan|kekhawatiran|ketegangan|stres|tekanan
+tentang,Ya,Ya,akan|atas|bab|berhubungan|berkenaan|mengenai|perkara|terhadap
+tenteram,Ya,Bukan,aman|damal|lega|rahayu|salam|sejahtera|sentosa|adem|ayem|sejuk|tenang
+tentu,Ya,Ya,absolut|definit|pasti|positif|tetap
+tepi,Ya,Bukan,bibir |pesisir|pinggir|rusuk|samping|sembir|sisi|susur|tebing|tubir|ufuk|batas|birai|birih|padan|sembiran|sempadan|tapal batas|margin|pias (halaman buku)
+terang,Ya,Bukan,bayan|jelas|kentara |ketahuan|nyata|sabit|tegas|tersurat|absolut|eksplisit|gamblang|a benderang|calak|cemerlang|cerah|mencolok|a bening|bersih|jernih|transparan|n cerah|siang|cahaya|sinar|a benar|sah|terbukti|valid
+teratur,Bukan,Bukan,apik|koheren|runtut|sistematis|terkendali|terkonsolidasi|terorganisasi|terpadu|terstruktur|tertata|tertib|urut|terpimpin|berirama|harmonis|ritmis|berkala|konstan|periodik|regular|tetap|rutin
+ternyata,Bukan,Ya,alih-alih|kelihatan
+terpapar,Bukan,Bukan,tergambar|hampar|terhampar|terungkap
+tertarik,Bukan,Bukan,terbawa|terdorong|tergiring|terikat|terikut|terjerat|terjerumus|terseret|terbetot|tercabut|ki gandrung|jatuh cinta|kasmaran|silau |terpikat|terbujuk|tercantol|tergoda|terhibur|terkesan|terpaut|terpesona|terpincut|terpukau|tertambat|tertawan
+terus,Ya,Ya,langsung|lantas|segera|p kalakian |kemudian|lalu|adv selalu|sinambung|terus-menerus|tetap|v bergerak|berjalan|lanjut|maju|menerus
+tinggi,Ya,Ya,jangkung|semampai|adiluhung|agung|ala|luhur|mulia|banter|banyak|mahal|canggih|muluk|rabung|nyaring|keras|muluk
+tipe,Ya,Bukan,contoh|corak|jenis|macam|model|potongan|rumpun|rupa|spesies|varietas|versi
+tonton,Ya,Bukan,melihat|memirsa|memandang|menatap|menyaksikan
+total,Ya,Bukan,jumlah|seluruhnya|adv habishabis-an|sepenuhnya|a absolut|mutlak
+tradisi,Ya,Bukan,adat-istiadat|budaya|etik|kebiasaan|kultur|institusi|konvensi|pranata|rasam|tradisional a konservatif|konvensional|kuno|lama|lapuk |tua|usang
+transaksi,Ya,Bukan,bisnis|negosiasi|pembicaraan|perundingan
+transpor,Ya,Bukan,angkutan|kendaraan
+transportasi,Ya,Bukan,pemindahan|pengangkutan|pengiriman
+tukar,Ya,Bukan,ganti|salin|silih|ubah
+tumpang,Ya,Bukan,membonceng|mendompleng |menebeng|menempel |ikut|turut|memakai|mengendarai|naik|meniban|menimpa|menindih
+tur,Ya,Bukan,cak darmawisata|piknik|rekreasi|tamasya|wisata
+turis,Ya,Bukan,pelancong|petandang|wisatawan
+tutur,Ya,Ya,bicara|kata|perkataan
+ukur,Ya,Bukan,sukat|takar
+ukuran,Bukan,Bukan,barometer|kadar|parameter|patokan|skala|standar|sukatan|takaran|tingkatan|tolok ukur|bentuk|dosis|edisi|kadar
+uluran,Bukan,Bukan,bentangan|juluran|regangan|rentangan|sorongan tangan|ki bantuan|pertolongan|sambung tangan |sokongan|sumbangan
+umumnya,Bukan,Ya,biasanya|galibnya|kebanyakan|lazimnya|pukul rata|rata-rata
+unggul,Ya,Bukan,ulung|v berjaya|menang|memenangi|menjuarai
+upaya,Ya,Bukan,akal|cara|daya|ikhtiar|jalan|kuasa|kekuatan|tenaga|usaha
+usul,Ya,Bukan,ajakan|anjuran|ide|gagasan|nasihat|saran|asal|asal mula|asas|dasar|pokok|pangkal|punca
+utus,Ya,Bukan,mengirim|menugasi
+valid,Ya,Bukan,absah|aci|asi|benar|berdasar|berlaku|berterima|jadi|kuat|legal|logis|meyakinkan|otentik|real|sah|sahih|tahkik|terang
+wabah,Ya,Bukan,endemi|epidemi|hawar|pagebluk|pandemi|taun
+wacana,Ya,Bukan,artikel|bacaan|ceramah|dialog|diskusi|khotbah|komunikasi|lektur|percakapan|pidato|pustaka|surat|teks
+waktu,Ya,Ya,kira-kira|lebih kurang|purata|sekitar|durasi|era|jangka|janji|kala|kali|kurun|masa|periode|saat|sangkala|tempo|tenggat|termin|zaman|n
+warga,Ya,Bukan,ahli|anak|anggota|awak|kelompok|orang|penduduk|penghuni|populasi|bani|famili|kaum|keluarga
+warga negara,Ya,Bukan,bangsa|masyarakat|orang|penduduk|rakyat
+warganegara,Bukan,Bukan,rakyat
+wartawan,Ya,Bukan,beritawan|jurnalis|juru berita|juru kabar|juru warta|koresponden|kuli tinta |nyamuk pers |pelapor|peliput|pemberita|penulis berita|penyampai|penyiar|pewarta|reporter|wartawati
+wartawati,Ya,Bukan,pemberita|juru warta|wartawan
+warung,Ya,Bukan,barung-barung|denai|depot|gerai|kedai|kios|lepau|pajak|toko
+waspada,Ya,Bukan,agak-agak|awas|cermat|eling|hati-hati|ingat-ingat|perdata|prayitna|siaga|siap sedia|tangar|teliti|waskita|waswas
+wawasan,Bukan,Bukan,anggapan pikiran|paham|pandangan|pendapat|pengertian|pengetahuan
+wewenang,Bukan,Bukan,kedaulatan|kekuasaan|kewenangan|otoritas
+wirausaha,Bukan,Bukan,pengusaha|wiraswasta
+wisata,Ya,Bukan,darmawisata|liburan|rekreasi|tamasya|tur 
+wisatawan,Ya,Bukan,pelancong|pelawat|pengunjung|petandang|turis
+wisma,Ya,Bukan,balai|gedung|pejabat|penginapan|pesanggrahan|rumah
+wisma penginapan,Bukan,Bukan,losmen
+yuridiksi,Bukan,Bukan,dominasi|kekuasaan|kontrol|otoritas|pengaruh|pengaturan|supremasi
+yurisdiksi,Ya,Bukan,dominasi|otoritas
+zaman,Ya,Bukan,kurun|periode|abad|era|kala|ketika|masa|waktu
+zona,Ya,Bukan,alam|area|daerah|kawasan|lingkungan|mandala|mintakat|rayon|sektor|tempat|wilayah
